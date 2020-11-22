@@ -1,4 +1,3 @@
-### rmotr.com
-# Data Science with Python Course
+# Analyze data using Python and SQL
 
-This material is created for our [Data Science with Python Course](https://rmotr.com/data-science-python-course)
+Data is loaded from https://rmotr.com/data-science-python-course
